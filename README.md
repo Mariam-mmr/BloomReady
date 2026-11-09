@@ -33,6 +33,10 @@ It is built in three connected parts:
 > 🎓 Based on the Bachelor's internal regulations of the **Faculty of Science, Mansoura University** (Mathematics & Computer Science programs).
 
 ---
+<div align="center">
+  <img src="images/Course_Prerequisite_Graph.png" alt="BloomReady Demo" width="700">
+</div>
+---
 
 ## ✨ Features
 
@@ -47,9 +51,8 @@ It is built in three connected parts:
 
 ---
 <div align="center">
-  <img src="images/Course_Prerequisite_Graph.png" alt="BloomReady Demo" width="700">
+  <img src="images/ERD.jpg" alt="BloomReady Demo" width="700">
 </div>
----
 
 ## ⚙️ How It Works
 
@@ -69,9 +72,6 @@ It is built in three connected parts:
                                                                       ▼
                                                     Readiness % + Cognitive level
 ```
-<div align="center">
-  <img src="images/ERD.jpg" alt="BloomReady Demo" width="700">
-</div>
 
 ### 1️⃣ Curriculum Leverage Score (CLS)
 
