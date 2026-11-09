@@ -16,10 +16,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="images/Course_Prerequisite_Graph.png" alt="BloomReady Demo" width="700">
-</div>
 --- 
 
 ## 📖 Overview
@@ -36,6 +32,10 @@ It is built in three connected parts:
 
 > 🎓 Based on the Bachelor's internal regulations of the **Faculty of Science, Mansoura University** (Mathematics & Computer Science programs).
 
+---
+<div align="center">
+  <img src="images/Course_Prerequisite_Graph.png" alt="BloomReady Demo" width="700">
+</div>
 ---
 
 ## ✨ Features
