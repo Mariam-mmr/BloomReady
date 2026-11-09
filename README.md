@@ -9,15 +9,18 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/Graph-NetworkX-4B8BBE)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/LLM-Gemini%202.5%20Flash-8E75B2?logo=googlegemini&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 [Overview](#-overview) • [Features](#-features) • [How It Works](#-how-it-works) • [Quick Start](#-quick-start) • [Project Structure](#-project-structure) • [Author](#-author)
 
 </div>
 
 ---
+
+<div align="center">
+  <img src="images/Course_Prerequisite_Graph.png" alt="BloomReady Demo" width="700">
+</div>
+--- 
 
 ## 📖 Overview
 
@@ -209,33 +212,16 @@ BloomReady/
 - [ ] Add Arabic syllabus support
 - [ ] Add unit tests for the board-rule functions
 
----
+--- 
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
 
 ## 👤 Author
 
-**Your Name**
+**Mariam M. Rabi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/Mariam-mmr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mmr/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:mariammrabi@gmail.com)
 
 <div align="center">
 
