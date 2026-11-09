@@ -1,0 +1,501 @@
+﻿student_id,student_name,student_level,student_program,CGPA,total_failed_subjects
+1,Abdelrahman Ahmed,4,Statistics and Computer Science,3.9,0
+2,Hossam Hamdy,2,Mathematics,2.4,2
+3,Salma Elmongy,2,Statistics and Computer Science,3.1,0
+4,Farouk Ahmed,3,Statistics and Computer Science,1.7,5
+5,Hend Magdy,4,Mathematics,1.1,9
+6,Maher Mohamed,1,Mathematics,3.5,0
+7,Abdelrahmen Kewan,4,Statistics and Computer Science,2,3
+8,Mohamed Mostafa,4,Statistics and Computer Science,4,0
+9,Laila Ismail,3,Statistics and Computer Science,4.5,0
+10,Ali Ibrahim,2,Mathematics,0.5,10
+11,Ahmed Mohamed,3,Mathematics,3.7,0
+12,Rahma Osama,1,Mathematics,2.1,0
+13,Farah Adel,4,Statistics and Computer Science,3.4,0
+14,Mohamed Hekaya,1,Mathematics,0.7,6
+15,Khaled Mousa,2,Statistics and Computer Science,2.7,1
+16,Zeinab Ahmed,3,Statistics and Computer Science,3,0
+17,Adel Naser,4,Mathematics,1.9,2
+18,Menna Fayez,3,Statistics and Computer Science,0.8,7
+19,Shahd Sameh,2,Statistics and Computer Science,1.8,2
+20,Ahmed Badawy,1,Statistics and Computer Science,0.9,5
+21,Ahmed Mekawy,4,Mathematics,2.8,0
+22,Nour Taha,2,Statistics and Computer Science,2.02,2
+23,Maher Sameh,2,Statistics and Computer Science,1.26,4
+24,Karim Soliman,3,Statistics and Computer Science,3.29,0
+25,Reem Fayez,3,Mathematics,1.84,3
+26,Sherif Ibrahim,4,Statistics and Computer Science,2.15,3
+27,Mohamed Osman,2,Statistics and Computer Science,3.01,0
+28,Rania Taha,3,Statistics and Computer Science,1.2,2
+29,Omar Farouk,4,Statistics and Computer Science,1.27,5
+30,Mona Mansour,1,Statistics and Computer Science,3.01,1
+31,Rahma Soliman,2,Mathematics,2.42,1
+32,Tarek Nasser,1,Statistics and Computer Science,0.1,10
+33,Wael Osman,1,Statistics and Computer Science,0.7,7
+34,Amira Ahmed,1,Statistics and Computer Science,3.5,0
+35,Mostafa Omran,3,Statistics and Computer Science,2.83,0
+36,Fatma Abdelfattah,1,Statistics and Computer Science,4.2,0
+37,Mostafa Fouad,4,Mathematics,2.39,1
+38,Shahd Hamdy,1,Statistics and Computer Science,2.1,2
+39,Mahmoud Hamdy,1,Mathematics,1.3,1
+40,Farouk Gohary,1,Statistics and Computer Science,1.6,0
+41,Farouk Saber,3,Statistics and Computer Science,3.36,1
+42,Abdelrahmen Abdallah,4,Statistics and Computer Science,1.42,2
+43,Marwan Abdallah,1,Mathematics,2.68,3
+44,Heba Elgohary,1,Mathematics,3.8,0
+45,Ali Selim,4,Statistics and Computer Science,2.89,0
+46,Fatma Adel,4,Statistics and Computer Science,1.29,5
+47,Hassan Magdy,4,Statistics and Computer Science,3.1,0
+48,Mostafa Younes,1,Statistics and Computer Science,1.8,2
+49,Sherif Sami,2,Mathematics,2.35,0
+50,Tarek Osman,4,Statistics and Computer Science,2.1,0
+51,Rana Magdy,4,Statistics and Computer Science,2.76,0
+52,Salma Adel,1,Mathematics,1.3,3
+53,Dalia Amr,3,Statistics and Computer Science,2,1
+54,Farouk Omar,3,Statistics and Computer Science,2.1,1
+55,Kareem Fahmy,3,Statistics and Computer Science,2.35,1
+56,Walid Mousa,4,Mathematics,2.47,1
+57,Kareem Maged,1,Statistics and Computer Science,0.89,7
+58,Ghada Ragab,4,Statistics and Computer Science,4.3,0
+59,Adel Nagy,2,Statistics and Computer Science,1.8,1
+60,Shimaa Omar,1,Statistics and Computer Science,0.93,6
+61,Sara Zaher,4,Mathematics,2.83,0
+62,Rana Salem,1,Statistics and Computer Science,1.01,2
+63,Sherif Ali,2,Statistics and Computer Science,2.05,1
+64,Ahmed Badr,4,Statistics and Computer Science,2.54,1
+65,Asmaa Salem,1,Statistics and Computer Science,0.72,6
+66,Nour Fouad,3,Statistics and Computer Science,2.17,0
+67,Asmaa Zaher,3,Statistics and Computer Science,3.79,0
+68,Yasmin Mohamed,3,Statistics and Computer Science,3.3,0
+69,Heba Helmy,1,Statistics and Computer Science,2.71,0
+70,Bilal Hamdy,3,Statistics and Computer Science,3.66,0
+71,Reem Tawfik,4,Statistics and Computer Science,3.21,0
+72,Rami Gamal,1,Mathematics,1.45,1
+73,Nour Hamdy,4,Statistics and Computer Science,4.84,0
+74,Omar Ahmed,4,Mathematics,3.09,0
+75,Rana Ragab,2,Mathematics,2.09,1
+76,Rami Ibrahim,4,Mathematics,2.95,0
+77,Sherif Mohamed,4,Statistics and Computer Science,2.43,1
+78,Mohamed Helal,1,Statistics and Computer Science,1.86,0
+79,Bilal Nagy,3,Mathematics,3.17,0
+80,Omar Hassan,4,Mathematics,2.45,0
+81,Samer Salem,4,Statistics and Computer Science,3.28,0
+82,Farouk Nagy,1,Statistics and Computer Science,1.59,1
+83,Amr Ragab,2,Statistics and Computer Science,3.89,0
+84,Amira Mansour,2,Statistics and Computer Science,1.77,1
+85,Noha Maged,2,Statistics and Computer Science,2.53,1
+86,Hassan Maged,2,Statistics and Computer Science,1.75,2
+87,Hossam Fouad,1,Statistics and Computer Science,0.7,8
+88,Sara Wahba,1,Statistics and Computer Science,1.81,0
+89,Hana Khalil,2,Mathematics,2.33,0
+90,Mariam Kamal,2,Statistics and Computer Science,0.2,13
+91,Dalia Amr,3,Mathematics,1.93,0
+92,Dina Ismail,4,Statistics and Computer Science,3.51,0
+93,Mahmoud Ahmed,1,Statistics and Computer Science,2.25,1
+94,Mona Mansour,2,Statistics and Computer Science,2.3,0
+95,Mohamed Badr,4,Statistics and Computer Science,4.43,0
+96,Ahmed Nasser,4,Mathematics,2.65,0
+97,Dalia Hassan,1,Mathematics,1.39,3
+98,Dalia Mansour,3,Mathematics,2.94,0
+99,Mostafa Ragab,1,Statistics and Computer Science,2.2,1
+100,Asmaa Ragab,4,Statistics and Computer Science,2.9,0
+101,Mostafa Zaher,1,Statistics and Computer Science,0.93,6
+102,Mohamed Fahmy,3,Statistics and Computer Science,2.39,0
+103,Fatima Tawfik,2,Mathematics,1.58,3
+104,Faris Fahmy,2,Statistics and Computer Science,1.65,2
+105,Zeinab Khalil,1,Mathematics,1.58,0
+106,Rania Helmy,2,Statistics and Computer Science,1.64,0
+107,Mariam Zaher,1,Statistics and Computer Science,2.09,0
+108,Amira Helmy,3,Statistics and Computer Science,3.62,0
+109,Walid Tawfik,2,Mathematics,1.69,3
+110,Samer Ibrahim,3,Mathematics,1.45,2
+111,Nour Zaher,2,Mathematics,1.84,0
+112,Mohamed Fouad,3,Mathematics,3.29,0
+113,Abdelrahman Zaher,4,Statistics and Computer Science,3.51,0
+114,Reem Nagy,2,Statistics and Computer Science,2.08,0
+115,Mariam Mansour,2,Statistics and Computer Science,2.72,0
+116,Shimaa Hamdy,3,Statistics and Computer Science,2.29,1
+117,Tarek Hamdy,2,Statistics and Computer Science,2.22,0
+118,Omar Amr,2,Statistics and Computer Science,1.54,2
+119,Wafaa Wahba,1,Statistics and Computer Science,2.02,1
+120,Rami Helmy,2,Statistics and Computer Science,1.17,1
+121,Farouk Ramadan,1,Mathematics,0.91,7
+122,Yasmin Khalil,3,Statistics and Computer Science,3.02,0
+123,Khaled Fahmy,4,Statistics and Computer Science,1.88,0
+124,Wafaa Ahmed,3,Statistics and Computer Science,4.01,0
+125,Zeinab Helal,3,Mathematics,3.1,0
+126,Tarek Abdallah,1,Statistics and Computer Science,1.51,2
+127,Rami Omar,1,Mathematics,1.35,3
+128,Zeinab Nasser,1,Statistics and Computer Science,2,0
+129,Nour Hamdy,3,Statistics and Computer Science,2.23,0
+130,Amr Hassan,1,Statistics and Computer Science,1.21,1
+131,Ibrahim Mohamed,1,Mathematics,1.36,0
+132,Fatima Ragab,4,Statistics and Computer Science,2.9,0
+133,Hana Mohamed,2,Statistics and Computer Science,3.42,0
+134,Rami Fouad,1,Mathematics,0.86,6
+135,Bilal Mansour,2,Statistics and Computer Science,0.94,8
+136,Dina Ramadan,3,Mathematics,2.96,0
+137,Ghada Khalil,2,Mathematics,1.62,1
+138,Ahmed Ibrahim,1,Mathematics,2.02,1
+139,Wafaa Ibrahim,2,Mathematics,3.31,0
+140,Dalia Mousa,1,Statistics and Computer Science,2,1
+141,Youssef Amr,3,Mathematics,1.87,1
+142,Nour Kamal,4,Statistics and Computer Science,3.11,0
+143,Ziad Mohamed,1,Mathematics,1.79,3
+144,Ahmed Wahba,3,Mathematics,1.79,2
+145,Sara Maged,4,Mathematics,3.78,0
+146,Faris Wahba,3,Mathematics,2.65,1
+147,Omar Othman,1,Statistics and Computer Science,1.5,0
+148,Khaled Omar,1,Mathematics,2.61,0
+149,Omar Nasser,2,Statistics and Computer Science,2.39,1
+150,Nour Abdallah,1,Statistics and Computer Science,2.02,1
+151,Rami Salem,4,Mathematics,2.58,1
+152,Hossam Maged,2,Statistics and Computer Science,1.86,0
+153,Heba Khalil,2,Statistics and Computer Science,2.38,0
+154,Faris Ahmed,3,Statistics and Computer Science,3.22,0
+155,Hassan Helmy,1,Statistics and Computer Science,0.2,11
+156,Farouk Maged,2,Statistics and Computer Science,0.88,10
+157,Fatima Maged,2,Statistics and Computer Science,2.22,0
+158,Mona Ahmed,1,Statistics and Computer Science,1.8,0
+159,Nadia Wahba,3,Statistics and Computer Science,2.82,0
+160,Faris Mousa,3,Mathematics,2.3,0
+161,Samer Mousa,1,Mathematics,1.14,1
+162,Zeinab Othman,2,Mathematics,1.76,1
+163,Fatima Abdelrahman,2,Statistics and Computer Science,2.59,1
+164,Nour Badr,4,Mathematics,3.59,0
+165,Zeinab Mohamed,3,Statistics and Computer Science,2.76,0
+166,Mona Hassan,4,Mathematics,3.62,0
+167,Reem Helmy,3,Mathematics,2.95,0
+168,Shimaa Helmy,3,Statistics and Computer Science,3.91,0
+169,Youssef Ibrahim,2,Statistics and Computer Science,2.14,1
+170,Nour Amr,4,Statistics and Computer Science,2.94,0
+171,Ahmed Khalil,2,Statistics and Computer Science,2.45,1
+172,Adel Ragab,4,Statistics and Computer Science,2.04,0
+173,Zeinab Fouad,3,Statistics and Computer Science,2.07,0
+174,Hossam Mohamed,2,Statistics and Computer Science,1.62,2
+175,Wafaa Fouad,1,Statistics and Computer Science,1.23,0
+176,Nour Helmy,3,Mathematics,2.65,0
+177,Amr Khalil,3,Statistics and Computer Science,2.54,0
+178,Mohamed Nasser,3,Mathematics,2.61,0
+179,Ziad Helmy,1,Statistics and Computer Science,1.86,1
+180,Nour Othman,1,Statistics and Computer Science,0.9,6
+181,Farouk Wahba,2,Mathematics,2.59,0
+182,Bilal Abdelrahman,4,Statistics and Computer Science,2.79,0
+183,Zeinab Nagy,1,Statistics and Computer Science,2.43,0
+184,Youssef Salem,4,Mathematics,2.78,0
+185,Omar Hamdy,4,Statistics and Computer Science,3.19,0
+186,Walid Ramadan,1,Statistics and Computer Science,1.46,1
+187,Ibrahim Ragab,3,Statistics and Computer Science,2,1
+188,Hossam Tawfik,2,Mathematics,1.29,2
+189,Wafaa Nasser,1,Mathematics,2.14,0
+190,Layla Ragab,1,Mathematics,1.63,2
+191,Tarek Khalil,2,Mathematics,2.06,1
+192,Khaled Tawfik,1,Statistics and Computer Science,1.72,0
+193,Mostafa Helmy,3,Statistics and Computer Science,1.75,2
+194,Faris Fouad,2,Statistics and Computer Science,2.32,1
+195,Ahmed Gamal,2,Statistics and Computer Science,1.51,2
+196,Adel Amr,4,Statistics and Computer Science,3.52,0
+197,Dalia Omar,4,Mathematics,4.25,0
+198,Mohamed Mansour,2,Statistics and Computer Science,1.65,1
+199,Salma Helmy,2,Statistics and Computer Science,2.92,0
+200,Zeinab Zaher,3,Statistics and Computer Science,2.44,1
+201,Ghada Wahba,2,Statistics and Computer Science,1.52,1
+202,Youssef Amr,4,Mathematics,3.17,0
+203,Hana Helal,1,Mathematics,2.26,0
+204,Rana Ramadan,1,Statistics and Computer Science,1.72,2
+205,Ghada Fouad,1,Statistics and Computer Science,1.54,2
+206,Khaled Kamal,1,Statistics and Computer Science,0.54,8
+207,Eman Hassan,1,Mathematics,1.5,0
+208,Layla Nagy,4,Mathematics,3.57,0
+209,Salma Fahmy,3,Statistics and Computer Science,2.18,1
+210,Bilal Ramadan,3,Mathematics,2.39,1
+211,Dina Ismail,4,Statistics and Computer Science,3.28,0
+212,Heba Ismail,3,Mathematics,2.78,0
+213,Kareem Ismail,3,Statistics and Computer Science,1.91,1
+214,Fatima Salem,1,Mathematics,2.06,0
+215,Sherif Hassan,1,Statistics and Computer Science,0.83,7
+216,Nadia Maged,3,Statistics and Computer Science,2.49,0
+217,Fatima Zaher,4,Mathematics,2.01,0
+218,Hana Nasser,1,Statistics and Computer Science,2.02,1
+219,Mona Ragab,2,Mathematics,1.74,0
+220,Amr Ali,1,Statistics and Computer Science,2,1
+221,Kareem Nasser,1,Statistics and Computer Science,1.83,0
+222,Sherif Abdelrahman,3,Statistics and Computer Science,2.95,0
+223,Fatima Nagy,4,Mathematics,3.4,0
+224,Youssef Fahmy,4,Statistics and Computer Science,3.54,0
+225,Heba Kamal,2,Statistics and Computer Science,2.13,0
+226,Kareem Mansour,1,Mathematics,1.12,0
+227,Mohamed Youssef,1,Statistics and Computer Science,1.58,1
+228,Kareem Badr,3,Statistics and Computer Science,2.93,0
+229,Noha Mohamed,4,Statistics and Computer Science,2.92,0
+230,Yasmin Ragab,1,Mathematics,1.13,0
+231,Nadia Ragab,4,Mathematics,2.86,0
+232,Rami Nasser,4,Statistics and Computer Science,2.1,0
+233,Dina Salem,1,Statistics and Computer Science,1.32,1
+234,Mostafa Mansour,4,Mathematics,3.15,0
+235,Wafaa Zaher,3,Statistics and Computer Science,2.51,0
+236,Reem Ahmed,4,Mathematics,2.77,0
+237,Mazen Kamal,3,Statistics and Computer Science,1.58,1
+238,Hassan Gamal,3,Statistics and Computer Science,2.5,0
+239,Asmaa Tawfik,4,Mathematics,3.45,0
+240,Nour Ahmed,3,Statistics and Computer Science,3.1,0
+241,Yasmin Zaher,2,Statistics and Computer Science,1.7,0
+242,Kareem Maged,2,Statistics and Computer Science,1.79,2
+243,Heba Nasser,4,Statistics and Computer Science,3.21,0
+244,Hana Omar,1,Statistics and Computer Science,2.92,0
+245,Walid Tawfik,2,Statistics and Computer Science,3.03,0
+246,Rana Fahmy,1,Statistics and Computer Science,1.1,3
+247,Abdelrahman Fouad,2,Statistics and Computer Science,2.25,0
+248,Nadia Ismail,3,Statistics and Computer Science,2.65,0
+249,Rami Nasser,1,Statistics and Computer Science,0.78,7
+250,Rami Ali,2,Statistics and Computer Science,1.53,3
+251,Rania Ismail,3,Statistics and Computer Science,1.65,2
+252,Adel Ragab,2,Mathematics,1.62,0
+253,Dina Zaher,3,Statistics and Computer Science,3.51,0
+254,Nour Mousa,2,Statistics and Computer Science,2.01,0
+255,Ibrahim Othman,2,Mathematics,1.6,2
+256,Ghada Maged,3,Mathematics,2.2,0
+257,Asmaa Ragab,2,Statistics and Computer Science,2.14,1
+258,Dalia Hamdy,2,Statistics and Computer Science,1.32,3
+259,Sara Hassan,1,Statistics and Computer Science,1.65,3
+260,Rami Ahmed,4,Statistics and Computer Science,3.21,0
+261,Amira Mansour,1,Statistics and Computer Science,1.73,1
+262,Tarek Omar,2,Statistics and Computer Science,1.03,0
+263,Adel Salem,3,Statistics and Computer Science,1.5,2
+264,Mona Khalil,4,Statistics and Computer Science,4.75,0
+265,Samer Fouad,2,Statistics and Computer Science,1.21,1
+266,Mohamed Badr,1,Statistics and Computer Science,0.92,6
+267,Nour Mohamed,3,Mathematics,2.28,1
+268,Bilal Zaher,4,Mathematics,3.81,0
+269,Shimaa Mousa,2,Mathematics,2.09,1
+270,Yasmin Abdallah,4,Statistics and Computer Science,2.99,0
+271,Khaled Ali,2,Mathematics,1.78,0
+272,Faris Fouad,4,Statistics and Computer Science,3.43,0
+273,Mazen Omar,1,Statistics and Computer Science,1.99,1
+274,Ghada Kamal,3,Statistics and Computer Science,2.72,0
+275,Mahmoud Youssef,4,Statistics and Computer Science,1.86,1
+276,Mohamed Youssef,1,Statistics and Computer Science,0.77,8
+277,Hossam Badr,4,Statistics and Computer Science,2.17,0
+278,Zeinab Hamdy,3,Statistics and Computer Science,2.09,1
+279,Walid Maged,2,Statistics and Computer Science,2.47,1
+280,Samar Ahmed,1,Statistics and Computer Science,1.81,0
+281,Hassan Gamal,3,Mathematics,1.77,1
+282,Samar Othman,2,Statistics and Computer Science,1.75,1
+283,Hassan Gamal,2,Statistics and Computer Science,1.23,0
+284,Mostafa Badr,1,Statistics and Computer Science,1.66,2
+285,Eman Nagy,1,Statistics and Computer Science,2.5,0
+286,Tarek Hassan,1,Statistics and Computer Science,0.87,7
+287,Ghada Salem,3,Statistics and Computer Science,1.56,2
+288,Farouk Mohamed,1,Mathematics,2.06,1
+289,Tarek Ismail,1,Statistics and Computer Science,1.01,1
+290,Youssef Helal,3,Mathematics,1.68,0
+291,Omar Mousa,1,Statistics and Computer Science,0.33,10
+292,Mohamed Abdallah,2,Statistics and Computer Science,2.56,0
+293,Amr Nasser,2,Statistics and Computer Science,1.97,1
+294,Mostafa Zaher,3,Mathematics,2.84,0
+295,Amira Amr,2,Statistics and Computer Science,1.79,1
+296,Ziad Fahmy,1,Mathematics,1.21,3
+297,Amr Nagy,4,Statistics and Computer Science,3.15,0
+298,Faris Wahba,1,Mathematics,1.27,1
+299,Mostafa Zaher,3,Statistics and Computer Science,3.22,0
+300,Yasmin Ibrahim,3,Mathematics,2.89,0
+301,Amira Othman,2,Statistics and Computer Science,1.86,0
+302,Kareem Zaher,3,Mathematics,1.77,0
+303,Farouk Ramadan,3,Statistics and Computer Science,3.65,0
+304,Layla Maged,2,Statistics and Computer Science,2.73,0
+305,Faris Helal,2,Statistics and Computer Science,1.73,2
+306,Hassan Hassan,1,Statistics and Computer Science,1.54,1
+307,Faris Nasser,4,Mathematics,3,0
+308,Zeinab Mansour,4,Statistics and Computer Science,3.13,0
+309,Asmaa Maged,1,Statistics and Computer Science,1.8,1
+310,Eman Mousa,2,Mathematics,3.09,0
+311,Hassan Othman,3,Statistics and Computer Science,2.37,1
+312,Fatima Ibrahim,3,Statistics and Computer Science,2.39,1
+313,Nadia Zaher,4,Statistics and Computer Science,3.54,0
+314,Fatima Abdallah,3,Statistics and Computer Science,1.66,0
+315,Dalia Fouad,3,Mathematics,3.6,0
+316,Omar Othman,3,Mathematics,1.59,1
+317,Adel Wahba,1,Mathematics,1.52,2
+318,Hassan Zaher,2,Statistics and Computer Science,2.61,0
+319,Bilal Nasser,3,Statistics and Computer Science,3.4,0
+320,Rana Fahmy,2,Statistics and Computer Science,3.24,0
+321,Hossam Nagy,1,Statistics and Computer Science,2.11,0
+322,Nour Ali,2,Mathematics,2.29,1
+323,Mahmoud Ali,2,Mathematics,1.79,3
+324,Rana Othman,1,Mathematics,2.38,1
+325,Ziad Badr,3,Statistics and Computer Science,1.91,0
+326,Ziad Hassan,3,Mathematics,2.22,0
+327,Bilal Abdelrahman,1,Mathematics,0.96,6
+328,Bilal Helal,1,Statistics and Computer Science,0.91,6
+329,Dalia Badr,1,Statistics and Computer Science,1.51,2
+330,Farouk Ahmed,2,Statistics and Computer Science,1.47,3
+331,Mona Ali,4,Statistics and Computer Science,3.14,0
+332,Mahmoud Badr,2,Mathematics,1.27,3
+333,Faris Salem,4,Statistics and Computer Science,2.02,0
+334,Mariam Mousa,1,Statistics and Computer Science,1.92,0
+335,Hossam Wahba,1,Statistics and Computer Science,1.49,1
+336,Ghada Omar,2,Mathematics,2.98,0
+337,Sherif Othman,1,Statistics and Computer Science,0.48,8
+338,Dina Kamal,1,Statistics and Computer Science,2.16,1
+339,Nour Ahmed,3,Statistics and Computer Science,1.66,1
+340,Khaled Hassan,2,Statistics and Computer Science,2.42,0
+341,Fatima Hamdy,3,Statistics and Computer Science,4,0
+342,Khaled Khalil,1,Statistics and Computer Science,2.13,1
+343,Wafaa Gamal,1,Statistics and Computer Science,1.39,3
+344,Sara Salem,4,Statistics and Computer Science,2.59,1
+345,Farouk Abdallah,3,Statistics and Computer Science,1.59,3
+346,Dina Salem,1,Statistics and Computer Science,1.99,1
+347,Hana Hamdy,2,Mathematics,1.52,1
+348,Sherif Abdallah,1,Statistics and Computer Science,2.19,0
+349,Kareem Youssef,1,Statistics and Computer Science,0.96,6
+350,Youssef Ahmed,2,Mathematics,2.52,1
+351,Nadia Gamal,1,Statistics and Computer Science,1.45,2
+352,Mostafa Nagy,1,Statistics and Computer Science,0.99,5
+353,Hassan Ahmed,1,Mathematics,1.36,2
+354,Heba Nasser,1,Statistics and Computer Science,1.65,1
+355,Mariam Tawfik,2,Statistics and Computer Science,2.67,0
+356,Kareem Nasser,1,Statistics and Computer Science,0.99,7
+357,Amira Helmy,2,Mathematics,1.55,1
+358,Hossam Mansour,2,Statistics and Computer Science,1.54,1
+359,Sara Abdelrahman,1,Statistics and Computer Science,1.59,0
+360,Omar Helal,1,Statistics and Computer Science,1.2,2
+361,Mostafa Tawfik,1,Mathematics,1.92,0
+362,Shimaa Mohamed,4,Statistics and Computer Science,2.85,0
+363,Dina Abdelrahman,2,Statistics and Computer Science,1.37,2
+364,Asmaa Zaher,2,Statistics and Computer Science,2.17,0
+365,Salma Ragab,3,Statistics and Computer Science,2.74,0
+366,Mahmoud Salem,3,Statistics and Computer Science,2.43,1
+367,Walid Mansour,3,Statistics and Computer Science,1.7,2
+368,Mahmoud Omar,4,Statistics and Computer Science,3.51,0
+369,Sherif Helmy,2,Mathematics,1.94,1
+370,Mostafa Ismail,1,Statistics and Computer Science,1.54,2
+371,Ibrahim Ramadan,3,Statistics and Computer Science,1.54,3
+372,Adel Fouad,2,Mathematics,1.36,2
+373,Nour Gamal,4,Statistics and Computer Science,2.79,0
+374,Faris Helmy,1,Statistics and Computer Science,1.12,0
+375,Ziad Nagy,3,Statistics and Computer Science,2.99,0
+376,Mohamed Fahmy,1,Statistics and Computer Science,1.15,1
+377,Kareem Kamal,2,Statistics and Computer Science,2.43,1
+378,Nour Wahba,2,Statistics and Computer Science,1.17,1
+379,Walid Ismail,1,Statistics and Computer Science,1.46,1
+380,Sara Ali,4,Statistics and Computer Science,3.29,0
+381,Hana Mansour,4,Mathematics,3.17,0
+382,Bilal Abdallah,1,Statistics and Computer Science,1.11,0
+383,Mazen Badr,3,Statistics and Computer Science,1.92,1
+384,Samar Ahmed,4,Statistics and Computer Science,3.16,0
+385,Amr Youssef,3,Statistics and Computer Science,2.11,1
+386,Shimaa Salem,2,Mathematics,1.86,0
+387,Shimaa Salem,3,Statistics and Computer Science,1.41,2
+388,Adel Mousa,2,Mathematics,2.19,1
+389,Wafaa Nasser,3,Statistics and Computer Science,2.69,0
+390,Asmaa Badr,3,Statistics and Computer Science,3.78,0
+391,Mahmoud Kamal,1,Statistics and Computer Science,1.32,1
+392,Shimaa Mohamed,3,Statistics and Computer Science,3,0
+393,Faris Ramadan,2,Statistics and Computer Science,2.19,0
+394,Nour Wahba,3,Statistics and Computer Science,2.4,0
+395,Youssef Tawfik,1,Statistics and Computer Science,0.73,6
+396,Mona Zaher,3,Mathematics,2.82,0
+397,Samer Kamal,1,Statistics and Computer Science,2.07,0
+398,Ahmed Gamal,2,Statistics and Computer Science,1.85,1
+399,Farouk Kamal,2,Statistics and Computer Science,2,1
+400,Amira Mohamed,1,Mathematics,1.73,2
+401,Nadia Youssef,3,Statistics and Computer Science,1.9,0
+402,Hassan Tawfik,2,Statistics and Computer Science,1.72,2
+403,Farouk Tawfik,1,Mathematics,1.43,3
+404,Farouk Maged,4,Statistics and Computer Science,2.52,0
+405,Nour Hamdy,3,Mathematics,2.39,1
+406,Amr Fouad,4,Statistics and Computer Science,3.14,0
+407,Fatima Tawfik,3,Mathematics,2.52,1
+408,Hana Abdelrahman,2,Statistics and Computer Science,1.79,2
+409,Rami Youssef,3,Mathematics,1.24,3
+410,Ahmed Othman,2,Statistics and Computer Science,2.46,1
+411,Nadia Salem,2,Mathematics,3.05,0
+412,Dalia Salem,2,Statistics and Computer Science,2.16,0
+413,Rania Ibrahim,2,Statistics and Computer Science,2.39,1
+414,Salma Wahba,4,Mathematics,3.73,0
+415,Samer Salem,2,Statistics and Computer Science,2.48,1
+416,Nour Mousa,2,Statistics and Computer Science,1.78,3
+417,Hossam Kamal,2,Statistics and Computer Science,0.76,10
+418,Heba Kamal,2,Mathematics,2.04,0
+419,Dina Mansour,1,Statistics and Computer Science,2.22,0
+420,Walid Abdallah,4,Statistics and Computer Science,2.61,1
+421,Wafaa Hassan,3,Statistics and Computer Science,3.54,0
+422,Rania Fouad,2,Mathematics,2.75,0
+423,Shimaa Amr,3,Statistics and Computer Science,2.2,1
+424,Mariam Tawfik,4,Statistics and Computer Science,3.95,0
+425,Amira Hassan,2,Mathematics,3.03,0
+426,Rania Abdallah,1,Statistics and Computer Science,2.06,1
+427,Faris Ali,2,Statistics and Computer Science,1.52,1
+428,Dina Othman,2,Statistics and Computer Science,2.28,0
+429,Farouk Ibrahim,4,Statistics and Computer Science,3.29,0
+430,Youssef Mousa,4,Statistics and Computer Science,2.55,1
+431,Hossam Ibrahim,4,Statistics and Computer Science,2.55,1
+432,Zeinab Fahmy,3,Statistics and Computer Science,3.11,0
+433,Dina Helal,2,Mathematics,2.37,0
+434,Hossam Ismail,1,Statistics and Computer Science,0.97,5
+435,Amr Ahmed,4,Statistics and Computer Science,2.4,0
+436,Dina Ali,4,Mathematics,3.04,0
+437,Eman Helal,2,Statistics and Computer Science,3.45,0
+438,Khaled Omar,3,Mathematics,3.48,0
+439,Ziad Badr,4,Statistics and Computer Science,2.56,1
+440,Mahmoud Maged,2,Statistics and Computer Science,2.25,1
+441,Ziad Maged,3,Mathematics,3.16,0
+442,Fatima Ramadan,4,Statistics and Computer Science,2.72,0
+443,Nour Hamdy,1,Mathematics,0.49,10
+444,Salma Amr,1,Statistics and Computer Science,1.23,0
+445,Hana Badr,4,Statistics and Computer Science,3.79,0
+446,Rana Amr,4,Statistics and Computer Science,3.23,0
+447,Ibrahim Ibrahim,1,Mathematics,1.85,0
+448,Mazen Fouad,3,Statistics and Computer Science,1.93,1
+449,Mohamed Hamdy,3,Statistics and Computer Science,2.85,0
+450,Dalia Abdelrahman,3,Mathematics,2.89,0
+451,Hossam Hamdy,3,Statistics and Computer Science,1.1,2
+452,Farouk Abdelrahman,2,Statistics and Computer Science,2.67,1
+453,Sherif Salem,3,Mathematics,1.32,0
+454,Bilal Hassan,3,Statistics and Computer Science,2.42,1
+455,Nadia Salem,1,Statistics and Computer Science,0.96,6
+456,Mariam Hassan,1,Statistics and Computer Science,1.78,1
+457,Mostafa Hamdy,1,Mathematics,2.45,1
+458,Zeinab Ramadan,4,Statistics and Computer Science,3.16,0
+459,Khaled Nasser,2,Statistics and Computer Science,1.49,3
+460,Mohamed Maged,3,Statistics and Computer Science,3.18,0
+461,Abdelrahman Gamal,4,Statistics and Computer Science,2.04,0
+462,Tarek Ragab,1,Mathematics,0.2,11
+463,Mona Hassan,1,Mathematics,2.89,0
+464,Nadia Amr,1,Statistics and Computer Science,1.72,3
+465,Mona Mohamed,4,Mathematics,2.56,0
+466,Adel Ali,3,Statistics and Computer Science,2.52,1
+467,Amr Ramadan,1,Statistics and Computer Science,1.18,0
+468,Mohamed Youssef,1,Statistics and Computer Science,0.52,8
+469,Mohamed Kamal,1,Statistics and Computer Science,1.98,0
+470,Abdelrahman Mohamed,4,Statistics and Computer Science,2.74,0
+471,Khaled Wahba,2,Statistics and Computer Science,2.47,0
+472,Farouk Fahmy,4,Statistics and Computer Science,2.42,0
+473,Nour Helal,4,Mathematics,3.21,0
+474,Mariam Badr,4,Statistics and Computer Science,3.02,0
+475,Ghada Mohamed,2,Statistics and Computer Science,1.75,3
+476,Hossam Fahmy,1,Statistics and Computer Science,0.58,8
+477,Walid Tawfik,2,Statistics and Computer Science,2.39,1
+478,Faris Ali,4,Mathematics,3.23,0
+479,Rami Gamal,4,Mathematics,2.88,0
+480,Nour Omar,2,Mathematics,2.54,1
+481,Fatima Nasser,2,Statistics and Computer Science,2.07,1
+482,Hana Hassan,3,Statistics and Computer Science,2.81,0
+483,Ahmed Hassan,2,Statistics and Computer Science,2.28,0
+484,Khaled Nasser,1,Statistics and Computer Science,1.57,0
+485,Dalia Helmy,1,Statistics and Computer Science,2.66,1
+486,Nour Ismail,2,Mathematics,2.08,1
+487,Hossam Badr,1,Mathematics,1.65,0
+488,Bilal Zaher,3,Statistics and Computer Science,2.2,1
+489,Mohamed Omar,3,Statistics and Computer Science,1.93,0
+490,Nadia Ismail,4,Statistics and Computer Science,3.04,0
+491,Rana Mansour,3,Mathematics,3.73,0
+492,Mohamed Othman,2,Statistics and Computer Science,1.83,0
+493,Layla Omar,1,Statistics and Computer Science,1.57,3
+494,Ahmed Hassan,1,Statistics and Computer Science,2.25,0
+495,Wafaa Ragab,4,Statistics and Computer Science,3.93,0
+496,Fatima Fahmy,3,Mathematics,2.44,0
+497,Ibrahim Ragab,1,Statistics and Computer Science,1.6,3
+498,Ziad Maged,2,Statistics and Computer Science,3.21,0
+499,Layla Ibrahim,3,Statistics and Computer Science,3.38,0
+500,Tarek Wahba,3,Mathematics,3.65,0
