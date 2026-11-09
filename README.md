@@ -69,6 +69,9 @@ It is built in three connected parts:
                                                                       ▼
                                                     Readiness % + Cognitive level
 ```
+<div align="center">
+  <img src="images/ERD.jpg" alt="BloomReady Demo" width="700">
+</div>
 
 ### 1️⃣ Curriculum Leverage Score (CLS)
 
