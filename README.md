@@ -222,7 +222,7 @@ BloomReady/
 
 **Mariam M. Rabi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mariam-mmr-181717?logo=github)](https://github.com/Mariam-mmr)
+[![GitHub](https://img.shields.io/badge/GitHub-your-username-181717?logo=github)](https://github.com/Mariam-mmr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mmr/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:mariammrabi@gmail.com)
 
